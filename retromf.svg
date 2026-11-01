@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 276" role="img" aria-labelledby="t">
-  <title id="t">A Minecraft server console that starts up with its plugin names redacted, then prints a whois for retromf: Khalifa, 18, a Computer Engineering with Artificial Intelligence student in the United Arab Emirates.</title>
+  <title id="t">A Minecraft server console that starts up with its plugin names redacted, then prints a whois for retromf, 18, a Computer Engineering with Artificial Intelligence student in the United Arab Emirates.</title>
   <style>
     text { font: 14px ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; fill: #b9b2a5; white-space: pre; }
     .time { fill: #6f685c; }
@@ -20,7 +20,7 @@
   <g class="l" style="animation-delay:1.4s"><text x="24" y="108" class="time">[02:14:12 INFO]:</text><rect class="bar" x="168" y="96" width="142" height="15"/><text x="322" y="108">enabled</text></g>
   <text class="l ok" x="24" y="132" style="animation-delay:2s">[02:14:12 INFO]: Done! Plugin list is classified.</text>
   <text class="l hi" x="24" y="168" style="animation-delay:2.8s">&gt; whois retromf</text>
-  <text class="l" x="24" y="192" style="animation-delay:3.3s"><tspan class="nut">name   </tspan> Khalifa, 18, United Arab Emirates</text>
+  <text class="l" x="24" y="192" style="animation-delay:3.3s"><tspan class="nut">name   </tspan> retromf, 18, United Arab Emirates</text>
   <text class="l" x="24" y="216" style="animation-delay:3.5s"><tspan class="nut">studying</tspan> Computer Engineering with Artificial Intelligence</text>
   <rect class="l cur" x="24" y="234" width="9" height="16" style="animation-delay:3.5s"/>
 </svg>
