@@ -1,11 +1,4 @@
-<img src="retromf.svg" width="100%" alt="A Minecraft server console that starts up with its plugin names redacted, then prints a whois for retromf, 18, a Computer Engineering with Artificial Intelligence student in the United Arab Emirates.">
+<img src="profile-card.svg" width="100%" alt="A Minecraft server console with redacted plugin names and a whois for retromf, 18, United Arab Emirates, studying Computer Engineering with Artificial Intelligence. Below it: Claude enjoyer. Owner at PeanutSMP. A pixel-art Claude mascot bounces over all of it like an old DVD logo.">
 
-I'm 18, studying Computer Engineering with Artificial Intelligence.
-
-Claude enjoyer.
-
-Owner @ PeanutSMP<br>
 https://peanutsmp.com<br>
 https://discord.gg/peanutsmp
-
-<img src="claude-dvd.svg" width="100%" alt="A pixel-art Claude mascot bouncing around a dark screen like an old DVD logo, changing color on every bounce and hitting a corner every 7 seconds.">
