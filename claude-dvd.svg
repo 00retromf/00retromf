@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 858 202" role="img" aria-labelledby="t">
+  <title id="t">A pixel-art Claude mascot bouncing around a dark screen like an old DVD logo, changing color on every bounce and hitting a corner every 7 seconds.</title>
+  <!-- Travel is 770 x 154 at 110 units/s: x turns every 7s, y every 1.4s, so the two line up in a corner every 7s. -->
+  <style>
+    .x { animation: x 7s linear infinite alternate; }
+    .y { animation: y 1.4s linear infinite alternate; }
+    .body { fill: #d97757; animation: color 7s steps(1) infinite; }
+    .eye { fill: #1a1712; }
+    .corner { font: 700 22px ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; fill: #f4efe4; text-anchor: middle; animation: corner 7s steps(1) infinite; }
+    @keyframes x { from { transform: translateX(0) } to { transform: translateX(770px) } }
+    @keyframes y { from { transform: translateY(0) } to { transform: translateY(154px) } }
+    @keyframes color { 0% { fill: #d97757 } 20% { fill: #e0a94e } 40% { fill: #7fbf6a } 60% { fill: #6fa8dc } 80% { fill: #c586c0 } }
+    @keyframes corner { 0% { opacity: 1 } 12% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { .x, .y, .body, .corner { animation: none } .corner { opacity: 0 } }
+  </style>
+  <rect width="858" height="202" rx="8" fill="#1a1712"/>
+  <text class="corner" x="429" y="108">CORNER!</text>
+  <g class="x"><g class="y">
+    <g class="body">
+      <rect x="16" y="0" width="56" height="32"/>
+      <rect x="0" y="8" width="88" height="16"/>
+      <rect x="16" y="32" width="8" height="16"/>
+      <rect x="32" y="32" width="8" height="16"/>
+      <rect x="48" y="32" width="8" height="16"/>
+      <rect x="64" y="32" width="8" height="16"/>
+    </g>
+    <rect class="eye" x="28" y="8" width="8" height="8"/>
+    <rect class="eye" x="52" y="8" width="8" height="8"/>
+  </g></g>
+</svg>
