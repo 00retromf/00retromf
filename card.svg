@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 858 322" role="img" aria-labelledby="t">
-  <title id="t">A Minecraft server console with redacted plugin names and a whois for retromf, 18, United Arab Emirates, studying Computer Engineering with Artificial Intelligence. Below it: Claude enjoyer. Owner at PeanutSMP. A pixel-art Claude mascot bounces over all of it like an old DVD logo.</title>
+  <title id="t">A Minecraft server console with redacted plugin names and a whois for retromf, 18, United Arab Emirates, studying Computer Engineering with Artificial Intelligence. Below it: Claude enjoyer. A pixel-art Claude mascot bounces over all of it like an old DVD logo.</title>
   <!-- Mascot travel is 768 x 256 at 128 units/s: x turns every 6s, y every 2s, so it lands in a corner every 6s. -->
   <style>
     text { font: 14px ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; fill: #b9b2a5; white-space: pre; }
@@ -41,9 +41,8 @@
   <text class="l" x="24" y="194" style="animation-delay:3.5s"><tspan class="nut">studying</tspan> Computer Engineering with Artificial Intelligence</text>
 
   <rect x="24" y="214" width="810" height="1" fill="#3a3429"/>
-  <text class="big" x="24" y="244">I'm 18, studying Computer Engineering with Artificial Intelligence.</text>
-  <text class="big" x="24" y="270">Claude enjoyer.</text>
-  <text class="big" x="24" y="296">Owner @ PeanutSMP</text>
+  <text class="big" x="24" y="252">I'm 18, studying Computer Engineering with Artificial Intelligence.</text>
+  <text class="big" x="24" y="284">Claude enjoyer.</text>
 
   <text class="corner" x="640" y="120">CORNER!</text>
 
